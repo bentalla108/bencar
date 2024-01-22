@@ -5,13 +5,15 @@ class BTexts {
   static const String skip = "Skip";
   static const String done = "Done";
   static const String submit = "Submit";
-  static const String appName = "B-Store";
+  static const String appName = "Bencar";
   static const String tContinue = "Continue";
+  static const String tGetStarted = "Get Started";
 
   // -- OnBoarding Texts
   static const String onBoardingTitle1 = "Welcome to";
   static const String onBoardingLogo = "Bencar";
-  static const String onBoardingTitle2 = "The best car in your hands with Bencar";
+  static const String onBoardingTitle2 =
+      "The best car in your hands with Bencar";
   static const String onBoardingTitle3 = "";
 
   static const String onBoardingSubTitle1 =

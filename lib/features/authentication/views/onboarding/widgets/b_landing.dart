@@ -36,7 +36,7 @@ class BLandingCar extends StatelessWidget {
             height: BSizes.spaceBtwItems,
           ),
           Text(
-            "Bencar",
+            BTexts.appName,
             style: Theme.of(context)
                 .textTheme
                 .headlineLarge!
