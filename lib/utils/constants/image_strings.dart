@@ -3,14 +3,18 @@
 /// This class contains all the App Images in String formats.
 class BImages {
   // -- App Logos
-  static const String darkAppLogo =
-      "assets/logos/t-store-splash-logo-black.png";
+  static const String appLogo = "assets/logos/logo.png";
+  static const String darkAppLogo = "assets/logos/logo.png";
   static const String lightAppLogo =
       "assets/logos/t-store-splash-logo-white.png";
 
   // -- Social Logos
   static const String google = "assets/logos/google-icon.png";
   static const String facebook = "assets/logos/facebook-icon.png";
+  // -- 360 image
+  static const String lightCar360 = "assets/images/cars/car360_transparant.png";
+  static const String darkCar360 = "assets/images/cars/car360_transparant.png";
+  static const String car360 = "assets/images/cars/car360_transparan_dark";
 
   // -- Category Icons
   static const String sportIcon =
@@ -60,9 +64,9 @@ class BImages {
 
   // -- OnBoarding Texts
   static const String onBoardingImage1 =
-      "assets/images/on_boarding_images/sammy-line-searching.gif";
+      "assets/images/onboarding_images/onboarding_image_1.jpg";
   static const String onBoardingImage2 =
-      "assets/images/on_boarding_images/sammy-line-shopping.gif";
+      "assets/images/onboarding_images/onboarding_image_2.jpg";
   static const String onBoardingImage3 =
       "assets/images/on_boarding_images/sammy-line-delivery.gif";
 

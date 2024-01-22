@@ -5,6 +5,7 @@ class BColors {
 
   // App theme colors
   static const Color primary = Color(0xFF101010);
+  static const Color primaryWhite = Color(0xFFFAFAFA);
   // static const Color secondary = Color(0xFFFFE24B);
   // static const Color accent = Color(0xFFb0c7ff);
 
@@ -23,8 +24,8 @@ class BColors {
   static Color darkContainer = BColors.white.withOpacity(0.1);
 
   // Button colors
-  static const Color buttonPrimary = Color(0x101010);
-  static const Color buttonSecondary = Color(0xFAFAFA);
+  static const Color buttonPrimary = Color(0xFF101010);
+  static const Color buttonSecondary = Color(0xFFFAFAFA);
   // static const Color buttonDisabled = Color(0xFFC4C4C4);
 
   // Border colors
@@ -39,11 +40,9 @@ class BColors {
 
   // Neutral Shades
   static const Color black = Color(0xFF232323);
-   static const Color darkerGrey = Color(0xFF1F222A);
-   static const Color dark2 = Color(0x1F222A);
-   static const Color dark3 = Color(0x35383F);
+  static const Color darkerGrey = Color(0xFF1F222A);
+  static const Color dark2 = Color(0xFF1F222A);
+  static const Color dark3 = Color(0xFF35383F);
   static const Color grey = Color(0xFFE0E0E0);
   static const Color white = Color(0xFFFFFFFF);
-
-  
 }
