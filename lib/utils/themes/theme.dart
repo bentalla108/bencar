@@ -10,6 +10,7 @@ class BappTheme {
   static ThemeData lightTheme = ThemeData(
     useMaterial3: true,
     primaryColor: BColors.primary,
+    brightness: Brightness.light,
     fontFamily: 'Poppins',
     scaffoldBackgroundColor: BColors.white,
     textTheme: BTextTheme.lightTextTheme,
@@ -19,8 +20,9 @@ class BappTheme {
   static ThemeData darkTheme = ThemeData(
     useMaterial3: true,
     primaryColor: BColors.primaryWhite,
+    brightness: Brightness.dark,
     fontFamily: 'Poppins',
-    scaffoldBackgroundColor: BColors.black,
+    scaffoldBackgroundColor: BColors.dark,
     textTheme: BTextTheme.darkTextTheme,
     elevatedButtonTheme: BElevatedButtonTheme.darktElevatedButtonTheme,
   );

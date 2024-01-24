@@ -21,9 +21,9 @@ class BDotIndicator extends StatelessWidget {
     return BRoundedContainer(
       backgroundColor: isSlected
           ? isDarkMode
-              ? BColors.primaryWhite
+              ? BColors.white
               : BColors.primary
-          : BColors.grey,
+          : BColors.dark3,
       width: width,
       height: height,
     );

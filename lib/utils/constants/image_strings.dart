@@ -13,8 +13,8 @@ class BImages {
   static const String facebook = "assets/logos/facebook-icon.png";
   // -- 360 image
   static const String lightCar360 = "assets/images/cars/car360_transparant.png";
-  static const String darkCar360 = "assets/images/cars/car360_transparant.png";
-  static const String car360 = "assets/images/cars/car360_transparan_dark";
+  static const String darkCar360 =
+      "assets/images/cars/car360_transparant_dark.png";
 
   // -- Category Icons
   static const String sportIcon =

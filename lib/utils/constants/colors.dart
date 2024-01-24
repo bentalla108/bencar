@@ -16,7 +16,7 @@ class BColors {
 
   // Background colors
   static const Color light = Color(0xFFF6F6F6);
-  static const Color dark = Color(0xFF272727);
+  static const Color dark = Color(0xFF232323);
   static const Color primaryBackground = Color(0xFFF3F5FF);
 
   // Background Container colors
@@ -39,7 +39,7 @@ class BColors {
   static const Color info = Color(0xFF1976D2);
 
   // Neutral Shades
-  static const Color black = Color(0xFF232323);
+  static const Color black = Color(0xFF101010);
   static const Color darkerGrey = Color(0xFF1F222A);
   static const Color dark2 = Color(0xFF1F222A);
   static const Color dark3 = Color(0xFF35383F);

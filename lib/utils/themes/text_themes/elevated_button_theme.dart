@@ -18,7 +18,7 @@ class BElevatedButtonTheme {
       textStyle: const TextStyle(
         color: Colors.white,
         fontSize: 16,
-        fontWeight: FontWeight.w800,
+        fontWeight: FontWeight.w600,
       ),
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(100),
@@ -40,7 +40,7 @@ class BElevatedButtonTheme {
       textStyle: const TextStyle(
         color: BColors.primary,
         fontSize: 16,
-        fontWeight: FontWeight.w800,
+        fontWeight: FontWeight.w600,
       ),
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(100),
